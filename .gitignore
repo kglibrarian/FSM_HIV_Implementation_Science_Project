@@ -1,3 +1,13 @@
+# Ignore these folders
+data/
+output/
+hiv imp/
+hiv not imp/
+hiv imp proj validation/
+
+# Ignore these files 
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
